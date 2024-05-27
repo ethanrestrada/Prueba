@@ -1,0 +1,13 @@
+D:\Basura_C#\mat\mat\obj\Debug\mat.csproj.AssemblyReference.cache
+D:\Basura_C#\mat\mat\obj\Debug\mat.Form1.resources
+D:\Basura_C#\mat\mat\obj\Debug\mat.Properties.Resources.resources
+D:\Basura_C#\mat\mat\obj\Debug\mat.csproj.GenerateResource.cache
+D:\Basura_C#\mat\mat\obj\Debug\mat.csproj.CoreCompileInputs.cache
+D:\Basura_C#\mat\mat\bin\Debug\mat.exe.config
+D:\Basura_C#\mat\mat\bin\Debug\mat.exe
+D:\Basura_C#\mat\mat\bin\Debug\mat.pdb
+D:\Basura_C#\mat\mat\bin\Debug\MatFileHandler.dll
+D:\Basura_C#\mat\mat\bin\Debug\MatFileHandler.xml
+D:\Basura_C#\mat\mat\obj\Debug\mat.csproj.Up2Date
+D:\Basura_C#\mat\mat\obj\Debug\mat.exe
+D:\Basura_C#\mat\mat\obj\Debug\mat.pdb
